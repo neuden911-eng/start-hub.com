@@ -1,0 +1,8 @@
+{
+  "name": "StartHub",
+  "description": "Pre-launch waitlist for StartHub, connecting early-stage founders with micro-investors and discovering funding opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
